@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
+I'm a fullstack developer, designer, and college student with a passion for programming. I'm all about being analytical in my thought process and I love diving right into new challenges. I dwell on random projects as a hobby, especially on Python and Flask. It's in my username! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="20" height="20" />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="20" height="20" /> I work in:
+![My Skills](https://skillicons.dev/icons?i=blender,python,flask,html,css,mysql)
 <!--
 **isntpythonasnake/isntpythonasnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
