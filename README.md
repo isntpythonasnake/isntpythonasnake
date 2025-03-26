@@ -2,6 +2,8 @@
 
 I'm a highly motived aspiring games developer, designer, and university student with a passion for programming. I'm all about being analytical in my thought process and I love diving right into new challenges. I dwell on random projects as a hobby, especially in Environment Design on Blender! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="20" height="20" />
 
+- 📖 Current student of BSc (Hons) Games Development @ Teesside University, United Kingdom.
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="20" height="20" /> I work in:
 ![My Skills](https://skillicons.dev/icons?i=blender,cs,unity,unreal,godot,visualstudio,vscode)
 <!--
